@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**JayHenry07/JayHenry07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
 
-Here are some ideas to get you started:
+### Lake-Sumter State College
+2017-2019<br>
+Degree: Associate's<br>
+GPA: 3.94
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### University of Central Florida
+2019-2022<br>
+Degree: Bachelor's<br>
+Field: Computer Engineering<br>
+GPA: 3.67
+
+## Connections
+<a href="https://www.linkedin.com/in/jamie-henry-8ba765154/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACUhoM4BQ1e4GF1YLMHAE1hh2peiLg-d4p8,1635458555923)/">Resume</a>
