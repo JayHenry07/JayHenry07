@@ -14,6 +14,6 @@ Field: Computer Engineering<br>
 GPA: 3.62
 
 ## Connections
-<a href="https://jayhenry07.github.io/Resume.pdf"><img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="50px"/></a>
-<a href="https://jayhenry07.github.io/"><img src="https://cdn-icons.flaticon.com/png/512/1084/premium/1084269.png?token=exp=1649171145~hmac=52d585e692c26f0b250505e2627ed7f2" width="50px"/></a>
-<a href="https://www.linkedin.com/in/jamie-henry-8ba765154/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649170994~hmac=4a620e4ed33d2348dcbca8d629ac69db" width="50px"/></a>
+<a href="https://jayhenry07.github.io/Resume.pdf"><img src="https://cdn-icons.flaticon.com/png/512/4654/premium/4654140.png?token=exp=1650048936~hmac=8f7a734da6be62a57a14326498737339" width="50px"/></a>
+<a href="https://jayhenry07.github.io/"><img src="https://cdn-icons.flaticon.com/png/512/1084/premium/1084269.png?token=exp=1650049010~hmac=25f226a1a98bbf81017627db12199ca8" width="50px"/></a>
+<a href="https://www.linkedin.com/in/jamie-henry-8ba765154/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1650049030~hmac=c6e951952fab586b663df0b738af091e" width="50px"/></a>
