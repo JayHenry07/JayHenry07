@@ -11,7 +11,7 @@ GPA: 3.94
 2019-2022<br>
 Degree: Bachelor's<br>
 Field: Computer Engineering<br>
-GPA: 3.62
+GPA: 3.61
 
 ## Connections
 <a href="https://jayhenry07.github.io/Resume.pdf"><img src="https://cdn-icons.flaticon.com/png/512/4654/premium/4654140.png?token=exp=1650048936~hmac=8f7a734da6be62a57a14326498737339" width="50px"/></a>
