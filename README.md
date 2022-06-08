@@ -9,14 +9,13 @@ I am currently a Software Engineer at SkillStorm.
 ## Languages
 <div align='left'>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50px"/>
-<img src="https://pngset.com/images/logo-python-icon-python-logo-number-symbol-text-alphabet-transparent-png-2507186.png" width="50px"/>
-<img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width="50px"/>
-<img src="https://i.pinimg.com/originals/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" width="50px"/>
-<img src="https://iconape.com/wp-content/files/km/370669/svg/c-sharp-logo-icon-png-svg.png" width="50px"/>
-<img src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png" width="50px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="50px"/>
-<img src="https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png" width="50px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" width="50px"/>
 </div>
 
 
