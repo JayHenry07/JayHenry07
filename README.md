@@ -11,7 +11,7 @@ I am currently a Software Engineer at SkillStorm.
 <div align='left'>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50px"/>
-<img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width="50px"/>
+<img src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50px"/>
 <img src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" width="50px"/>
