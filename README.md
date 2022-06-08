@@ -1,6 +1,7 @@
 ### Welcome 👋
 
 I am a graduate from the University of Central Florida with a Bachelor's Degree in Computer Engineering.
+<br/>
 I am currently a Software Engineer at SkillStorm.
 
 ## Connect With Me
