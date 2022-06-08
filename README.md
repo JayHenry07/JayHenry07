@@ -21,3 +21,13 @@ I am currently a Software Engineer at SkillStorm.
 
 
 ## Tools
+<div align='left'>
+<img src="https://cdn-icons-png.flaticon.com/512/5969/5969205.png" width="50px"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/136/136528.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/136/136527.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="50px"/>
+</div>
