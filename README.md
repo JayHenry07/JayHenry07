@@ -7,5 +7,7 @@ I am currently a Software Engineer at SkillStorm.
 <a href="https://www.linkedin.com/in/jamie-henry-8ba765154/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px"/></a>
 
 ## Languages
+<div align='left'>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50px"/>
+</div>
