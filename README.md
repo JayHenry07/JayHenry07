@@ -13,8 +13,8 @@ I am currently a Software Engineer at SkillStorm.
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px"/>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="50px"/>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/136/136528.png" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/136/136527.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="50px"/>
 </div>
 
