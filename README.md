@@ -28,6 +28,7 @@ I am currently a Software Engineer at SkillStorm.
 <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50px"/>
 <img src="https://spring.io/images/logo-eclipse-02147c535e095dcbf9798552c191e58a.svg" width="50px"/>
+<img src="https://pbs.twimg.com/profile_images/1235954979783012354/t9lO8UAz_400x400.png" width="50px"/>
 <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" width="50px"/>
 <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" width="50px"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/react-3521666-2945110.png" width="50px"/>
