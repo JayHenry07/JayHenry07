@@ -24,7 +24,6 @@ I am currently a Software Engineer at SkillStorm.
 <div align='left'>
 <img src="https://cdn-icons-png.flaticon.com/512/5969/5969205.png" width="50px"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" width="50px"/>
-<img src="https://www.clipartmax.com/png/middle/241-2411261_categories-spring-tool-suite-icon.png" width="50px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/136/136528.png" width="50px"/>
