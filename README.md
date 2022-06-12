@@ -36,4 +36,5 @@ I am currently a Software Engineer at SkillStorm.
 <img src="https://cdn.iconscout.com/icon/free/png-256/react-3521666-2945110.png" width="50px"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/angular-2038881-1720094.png" width="50px"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png" width="50px"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" width="50px"/>
 </div>
