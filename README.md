@@ -1,8 +1,9 @@
-### Welcome 👋
+# Welcome 👋
+Full Stack Developer at SkillStorm
 
-I am a graduate from the University of Central Florida with a Bachelor's degree in Computer Engineering.
-<br/>
-I am currently a Software Engineer at SkillStorm.
+## Education
+### University of Central Florida
+Bachelor's degree: Computer Engineering
 
 ## Connect With Me
 <a href="https://www.linkedin.com/in/jamie-henry-8ba765154/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px"/></a>
