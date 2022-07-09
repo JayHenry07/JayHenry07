@@ -15,7 +15,6 @@ Bachelor's degree: Computer Engineering
 <img src="https://iconape.com/wp-content/png_logo_vector/c-programming-language-logo.png" width="44px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50px"/>
-<img src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/136/136528.png" width="50px"/>
