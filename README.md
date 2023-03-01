@@ -30,7 +30,7 @@ Bachelor's degree: Computer Engineering
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="50px"/>
 <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50px"/>
-<img src="https://spring.io/images/logo-eclipse-02147c535e095dcbf9798552c191e58a.svg" width="50px"/>
+<img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" width="50px"/>
 <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" width="50px"/>
 <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" width="50px"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/react-3521666-2945110.png" width="50px"/>
