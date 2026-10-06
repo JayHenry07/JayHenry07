@@ -27,7 +27,7 @@ Bachelor's degree: Computer Engineering
 <div align='left'>
 <img src="https://cdn-icons-png.flaticon.com/512/5969/5969205.png" width="50px"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" width="50px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="50px"/>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px"/>
 <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50px"/>
 <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" width="50px"/>
